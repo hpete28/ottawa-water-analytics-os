@@ -20,6 +20,7 @@ const { initDb, getDb } = require('./db/init');
 const { fetchAndStoreWaterUsage, fetchAndStoreDateRange } = require('./services/WaterService');
 const { fetchAndStoreWeather } = require('./services/WeatherService');
 const { analyzeWaterData } = require('./services/AIService');
+const { refreshSessionCookie } = require('./services/AuthScraper');
 
 // ---------------------------------------------------------------------------
 // App setup
@@ -290,7 +291,32 @@ app.post('/api/scrape', async (req, res) => {
         errors.push({ service: 'weather', message: err.message });
     }
 
-    const hasOnlyCookieErrors = errors.every(e =>
+    // ── Check if we failed solely due to auth/cookie
+    const hasOnlyCookieErrors = errors.length > 0 && errors.every(e =>
+        /cookie|auth|401|403|expired/i.test(e.message || '')
+    );
+
+    // ── Attempt Headless Auth Retry
+    if (hasOnlyCookieErrors) {
+        console.log('\n🔄 [server] Ottawa API cookie expired. Triggering Headless Auth Retry...');
+        try {
+            await refreshSessionCookie();
+
+            // Clear previous water errors and try exactly once more
+            errors.length = 0;
+            console.log('🔄 [server] Retrying Water fetch with new cookie...');
+            waterResults = await fetchAndStoreDateRange(startDate, endDate);
+
+            for (const r of waterResults) {
+                if (r.error) errors.push({ service: 'water', date: r.date, message: r.error });
+            }
+        } catch (authErr) {
+            console.error('❌ [server] Headless Auth failed:', authErr.message);
+            errors.push({ service: 'auth', message: 'Automated login failed. Please check OTTAWA_EMAIL and OTTAWA_PASSWORD in .env.' });
+        }
+    }
+
+    const finalHasOnlyCookieErrors = errors.every(e =>
         /cookie|auth|401|403|expired/i.test(e.message || '')
     );
 
@@ -302,7 +328,7 @@ app.post('/api/scrape', async (req, res) => {
         weather: weatherResult,
         errors,
         // Flag so the frontend can detect expired cookie without string parsing
-        cookieExpired: !success && hasOnlyCookieErrors,
+        cookieExpired: !success && finalHasOnlyCookieErrors,
     });
 });
 
