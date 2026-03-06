@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables (contains sensitive session cookies — never commit!)
+.env
+
+# SQLite database files
+*.db
+*.sqlite
+
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
