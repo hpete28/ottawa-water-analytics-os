@@ -125,6 +125,11 @@ async function fetchAndStoreWaterUsage(date) {
 
         const json = response.data;
 
+        // 🛑 Bug Fix: Ottawa Water Portal returns 200 OK + HTML when cookies expire during a long loop
+        if (typeof json === 'string' && json.toLowerCase().includes('<!doctype html>')) {
+            throw new Error('Auth error: Session cookie has expired and redirected to HTML login. Triggering auto-retry.');
+        }
+
         if (!json?.Success) {
             const msg = json?.Exception || json?.Feedback || 'Unknown API error';
             throw new Error(`Ottawa Water API returned Success=false: ${msg}`);
@@ -180,6 +185,15 @@ async function fetchAndStoreWaterUsage(date) {
 }
 
 /**
+ * Adds 1 day to a YYYY-MM-DD string safely without local timezone interference.
+ */
+function addOneDay(dateStr) {
+    const [y, m, d] = dateStr.split('-').map(Number);
+    const nextDate = new Date(Date.UTC(y, m - 1, d + 1));
+    return nextDate.toISOString().split('T')[0];
+}
+
+/**
  * Fetches and stores water usage for every day in [startDate, endDate] inclusive.
  * Adds a polite 500ms delay between requests to avoid rate limits.
  *
@@ -187,21 +201,22 @@ async function fetchAndStoreWaterUsage(date) {
  * @param {string} endDate   - YYYY-MM-DD
  */
 async function fetchAndStoreDateRange(startDate, endDate) {
-    const start = new Date(startDate);
-    const end = new Date(endDate);
     const results = [];
+    let currentDate = startDate;
 
-    for (let d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
-        const dateStr = d.toISOString().split('T')[0];
+    while (currentDate <= endDate) {
         try {
-            const result = await fetchAndStoreWaterUsage(dateStr);
+            const result = await fetchAndStoreWaterUsage(currentDate);
             results.push(result);
         } catch (err) {
-            console.error(`    ❌  Error for ${dateStr}: ${err.message}`);
-            results.push({ date: dateStr, error: err.message });
+            console.error(`    ❌  Error for ${currentDate}: ${err.message}`);
+            results.push({ date: currentDate, error: err.message });
         }
+
         // Polite delay between requests
         await new Promise((resolve) => setTimeout(resolve, 500));
+
+        currentDate = addOneDay(currentDate);
     }
 
     return results;

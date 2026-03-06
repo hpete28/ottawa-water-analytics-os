@@ -1,0 +1,1432 @@
+[
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca",
+    "method": "GET",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Shibboleth.sso/SAML2/POST",
+    "method": "POST",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca",
+    "method": "GET",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Search/SearchSkinObjectPreview.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/bootstrap.min.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/fonts.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/all.min.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/data-tables.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/daterange-picker-calendar.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/sidenav.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/global.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/custom.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/styles.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/portal.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/nprogress2.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/eBillSignup/css/eBillSignup.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/WebResource.axd?d=pynGkmcFUV35MHdU_CwVdQBih9aajbmF0BAr08HurvzhkyO_8fMJBWX8dVI1&t=638901392248157332",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/ScriptResource.axd?d=NJmAwtEo3IoXcNx-_N1C1Nkb6aq4b9W-GalZ-6KBQxTCB5s1YWh0RHiUpO6xr7UpYqfkMCmrsQtHewDEJ2gme4kZQIppDk4jY9L52LHb_01XRmW2mHWQaA94jmU-jl9y9-Dx-g2&t=5c0e0825",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/ScriptResource.axd?d=dwY9oWetJoKqcbmiwDe1ewRfBmQO-0ND7q1j1hmLrGIR2v4w_qVz4T4ywz5CXmZGClIEJbqht-GhYYlqELQLkaGqCggwaCYQKyM2sabOJIGpDVwztjfGYL26Xha74gFFP3_j5TVpztRR2zB50&t=5c0e0825",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/logger.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/aus-service.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jquery.validate.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/additional-methods.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goPage.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goLogin.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jquery.dataTables.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/pdfmake.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/vfs_fonts.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/dataTables.buttons.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jszip.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/buttons.html5.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goChangePassword.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advancedTags.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/cookie.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/custom.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/dataTables.conditionalPaging.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/sidenav.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/layout.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.modalpopup.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/nprogress2.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnncore.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/AccountSelector/js/AccountSelector.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Cocustomers/js/Cocustomers.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/BillingSummary/js/BillingSummary.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/eBillSignup/js/eBillSignup.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/PayNowLink/js/PayNowLink.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Search/SearchSkinObjectPreview.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.servicesframework.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/logo_en.png?ver=Zx7J2cm-XCieUKq443Gm9g%3d%3d",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/bootstrap.bundle.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1970710473",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/logo_en.png?ver=Zx7J2cm-XCieUKq443Gm9g%3d%3d",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-solid-900.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/linkicon.ttf?sdlajo",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/assets/img/logo-footer-blk.png",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-solid-900.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/linkicon.ttf?sdlajo",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/_Incapsula_Resource?SWKMTFSR=1&e=0.4984237359739129",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/preload",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/PayNowLink/data/paynowlink",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/Cocustomers/data/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/favicon.ico",
+    "method": "GET",
+    "type": "other"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/my-account/usage?account=10041554",
+    "method": "GET",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/Login?returnurl=%2fen-ca%2fmy-account%2fusage%3faccount%3d10041554",
+    "method": "GET",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AuthenticationServices/Shibboleth/Login/ShibHandler.ashx?0&lang=",
+    "method": "GET",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca",
+    "method": "GET",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Search/SearchSkinObjectPreview.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/bootstrap.min.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/fonts.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/all.min.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/data-tables.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/daterange-picker-calendar.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/sidenav.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/global.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/custom.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/styles.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/portal.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/nprogress2.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/eBillSignup/css/eBillSignup.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/WebResource.axd?d=pynGkmcFUV35MHdU_CwVdQBih9aajbmF0BAr08HurvzhkyO_8fMJBWX8dVI1&t=638901392248157332",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/ScriptResource.axd?d=NJmAwtEo3IoXcNx-_N1C1Nkb6aq4b9W-GalZ-6KBQxTCB5s1YWh0RHiUpO6xr7UpYqfkMCmrsQtHewDEJ2gme4kZQIppDk4jY9L52LHb_01XRmW2mHWQaA94jmU-jl9y9-Dx-g2&t=5c0e0825",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/ScriptResource.axd?d=dwY9oWetJoKqcbmiwDe1ewRfBmQO-0ND7q1j1hmLrGIR2v4w_qVz4T4ywz5CXmZGClIEJbqht-GhYYlqELQLkaGqCggwaCYQKyM2sabOJIGpDVwztjfGYL26Xha74gFFP3_j5TVpztRR2zB50&t=5c0e0825",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/logger.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/aus-service.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jquery.validate.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/additional-methods.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goPage.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goLogin.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jquery.dataTables.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/pdfmake.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/vfs_fonts.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/dataTables.buttons.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jszip.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/buttons.html5.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goChangePassword.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advancedTags.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/cookie.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/custom.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/dataTables.conditionalPaging.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/sidenav.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/layout.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.modalpopup.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/nprogress2.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnncore.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/AccountSelector/js/AccountSelector.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Cocustomers/js/Cocustomers.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/BillingSummary/js/BillingSummary.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/eBillSignup/js/eBillSignup.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/PayNowLink/js/PayNowLink.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Search/SearchSkinObjectPreview.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.servicesframework.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/logo_en.png?ver=Zx7J2cm-XCieUKq443Gm9g%3d%3d",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/bootstrap.bundle.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.en.js",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.js",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/logo_en.png?ver=Zx7J2cm-XCieUKq443Gm9g%3d%3d",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/linkicon.ttf?sdlajo",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/assets/img/logo-footer-blk.png",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-solid-900.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/preload",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/PayNowLink/data/paynowlink",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/Cocustomers/data/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/linkicon.ttf?sdlajo",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-solid-900.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/data",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/data",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/data",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/my-account/billing?account=10041554",
+    "method": "GET",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Search/SearchSkinObjectPreview.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/bootstrap.min.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/fonts.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/all.min.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/data-tables.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/daterange-picker-calendar.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/sidenav.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/global.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/custom.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/styles.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/portal.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/nprogress2.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/WebResource.axd?d=pynGkmcFUV35MHdU_CwVdQBih9aajbmF0BAr08HurvzhkyO_8fMJBWX8dVI1&t=638901392248157332",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/ScriptResource.axd?d=NJmAwtEo3IoXcNx-_N1C1Nkb6aq4b9W-GalZ-6KBQxTCB5s1YWh0RHiUpO6xr7UpYqfkMCmrsQtHewDEJ2gme4kZQIppDk4jY9L52LHb_01XRmW2mHWQaA94jmU-jl9y9-Dx-g2&t=5c0e0825",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/ScriptResource.axd?d=dwY9oWetJoKqcbmiwDe1ewRfBmQO-0ND7q1j1hmLrGIR2v4w_qVz4T4ywz5CXmZGClIEJbqht-GhYYlqELQLkaGqCggwaCYQKyM2sabOJIGpDVwztjfGYL26Xha74gFFP3_j5TVpztRR2zB50&t=5c0e0825",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/logger.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/aus-service.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jquery.validate.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/additional-methods.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goPage.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goLogin.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jquery.dataTables.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/pdfmake.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/vfs_fonts.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/dataTables.buttons.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jszip.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/buttons.html5.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goChangePassword.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advancedTags.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/cookie.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/custom.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/dataTables.conditionalPaging.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/sidenav.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/layout.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.modalpopup.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/nprogress2.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnncore.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/AccountSelector/js/AccountSelector.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/DateRange/moment-with-locales.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/DateRange/datepicker.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/DateRange/js/DateRange.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/BillingSummary/js/BillingSummary.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/GraphicChart/dx.viz-web.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/BillingHistory/js/FileSaver.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/BillingHistory/js/BillingHistory.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Search/SearchSkinObjectPreview.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.servicesframework.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/logo_en.png?ver=Zx7J2cm-XCieUKq443Gm9g%3d%3d",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/bootstrap.bundle.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.en.js",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.js",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/logo_en.png?ver=Zx7J2cm-XCieUKq443Gm9g%3d%3d",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/linkicon.ttf?sdlajo",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/linkicon.ttf?sdlajo",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/assets/img/logo-footer-blk.png",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-solid-900.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/preload",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/DateRange/DateRange/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/DateRange/DateRange/settings",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingHistory/billinghistory/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingHistory/billinghistory/BillingHistoryByDates?startdate=2025-03-06&enddate=2026-03-06",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-solid-900.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/data",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-regular-400.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-regular-400.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca?accountnumber=10041554",
+    "method": "GET",
+    "type": "document"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Search/SearchSkinObjectPreview.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/bootstrap.min.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/fonts.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/all.min.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/data-tables.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/daterange-picker-calendar.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/sidenav.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/global.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/custom.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/styles.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/portal.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/css/nprogress2.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/eBillSignup/css/eBillSignup.css?cdv=2511",
+    "method": "GET",
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/WebResource.axd?d=pynGkmcFUV35MHdU_CwVdQBih9aajbmF0BAr08HurvzhkyO_8fMJBWX8dVI1&t=638901392248157332",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/ScriptResource.axd?d=NJmAwtEo3IoXcNx-_N1C1Nkb6aq4b9W-GalZ-6KBQxTCB5s1YWh0RHiUpO6xr7UpYqfkMCmrsQtHewDEJ2gme4kZQIppDk4jY9L52LHb_01XRmW2mHWQaA94jmU-jl9y9-Dx-g2&t=5c0e0825",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/ScriptResource.axd?d=dwY9oWetJoKqcbmiwDe1ewRfBmQO-0ND7q1j1hmLrGIR2v4w_qVz4T4ywz5CXmZGClIEJbqht-GhYYlqELQLkaGqCggwaCYQKyM2sabOJIGpDVwztjfGYL26Xha74gFFP3_j5TVpztRR2zB50&t=5c0e0825",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/logger.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/aus-service.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jquery.validate.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/additional-methods.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goPage.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goLogin.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jquery.dataTables.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/pdfmake.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/vfs_fonts.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/dataTables.buttons.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/jszip.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/buttons.html5.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goChangePassword.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advancedTags.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/cookie.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/custom.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/dataTables.conditionalPaging.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/sidenav.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/layout.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.modalpopup.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/nprogress2.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnncore.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/AccountSelector/js/AccountSelector.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Cocustomers/js/Cocustomers.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/BillingSummary/js/BillingSummary.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/eBillSignup/js/eBillSignup.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/PayNowLink/js/PayNowLink.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Resources/Search/SearchSkinObjectPreview.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/js/dnn.servicesframework.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/logo_en.png?ver=Zx7J2cm-XCieUKq443Gm9g%3d%3d",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/js/bootstrap.bundle.min.js?cdv=2511",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.en.js",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.js",
+    "method": "GET",
+    "type": "script"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/0/logo_en.png?ver=Zx7J2cm-XCieUKq443Gm9g%3d%3d",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/assets/img/logo-footer-blk.png",
+    "method": "GET",
+    "type": "image"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-solid-900.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/linkicon.ttf?sdlajo",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/preload",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/PayNowLink/data/paynowlink",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/Cocustomers/data/GetModuleInitializationData",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/fa-solid-900.woff2",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/Portals/_default/Skins/InfinityLink/fonts/linkicon.ttf?sdlajo",
+    "method": "GET",
+    "type": "font"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/data",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/data",
+    "method": "GET",
+    "type": "xhr"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/data",
+    "method": "GET",
+    "type": "xhr"
+  }
+]

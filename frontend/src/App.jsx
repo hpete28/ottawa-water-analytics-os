@@ -5,6 +5,8 @@ import CompositeChart from './components/CompositeChart'
 import HourlyChart from './components/HourlyChart'
 import WeatherPanel from './components/WeatherPanel'
 import AiInsights from './components/AiInsights'
+import DailyTable from './components/DailyTable'
+import BillingPanel from './components/BillingPanel'
 import './index.css'
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
@@ -256,6 +258,12 @@ export default function App() {
           loading={loadingHourly}
           date={viewDate}
         />
+
+        {/* Daily Meter Readings Table */}
+        <DailyTable dailyData={dailyData} loading={loadingWeather} />
+
+        {/* Billing Summary */}
+        <BillingPanel scrapeStart={scrapeStart} scrapeEnd={scrapeEnd} />
 
         {/* AI Insights Panel */}
         <AiInsights scrapeStart={scrapeStart} scrapeEnd={scrapeEnd} />

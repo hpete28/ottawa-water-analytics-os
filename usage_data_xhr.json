@@ -1,0 +1,37 @@
+{
+  "captured": [],
+  "requestHeaders": {
+    "/en-ca/API/AdvancedUtility/AccountSelector/selector/preload": {
+      "moduleid": "2506",
+      "tabid": "605"
+    },
+    "/en-ca/API/AdvancedUtility/AccountSelector/selector/GetModuleInitializationData": {
+      "moduleid": "2506",
+      "tabid": "605"
+    },
+    "/en-ca/API/AdvancedUtility/BillingSummary/summary/GetModuleInitializationData": {
+      "moduleid": "2499",
+      "tabid": "605"
+    },
+    "/en-ca/API/AdvancedUtility/eBillSignup/enrollment/GetModuleInitializationData": {
+      "moduleid": "2500",
+      "tabid": "605"
+    },
+    "/en-ca/API/AdvancedUtility/PayNowLink/data/paynowlink": {
+      "moduleid": "2507",
+      "tabid": "605"
+    },
+    "/en-ca/API/AdvancedUtility/Cocustomers/data/GetModuleInitializationData": {
+      "moduleid": "2538",
+      "tabid": "605"
+    },
+    "/en-ca/API/AdvancedUtility/eBillSignup/enrollment/data": {
+      "moduleid": "2500",
+      "tabid": "605"
+    },
+    "/en-ca/API/AdvancedUtility/BillingSummary/summary/data": {
+      "moduleid": "2499",
+      "tabid": "605"
+    }
+  }
+}

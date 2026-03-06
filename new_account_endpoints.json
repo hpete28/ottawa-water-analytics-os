@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/preload",
+    "method": "GET",
+    "moduleid": "2506",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/GetModuleInitializationData",
+    "method": "GET",
+    "moduleid": "2506",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/GetModuleInitializationData",
+    "method": "GET",
+    "moduleid": "2499",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/GetModuleInitializationData",
+    "method": "GET",
+    "moduleid": "2500",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/PayNowLink/data/paynowlink",
+    "method": "GET",
+    "moduleid": "2507",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/Cocustomers/data/GetModuleInitializationData",
+    "method": "GET",
+    "moduleid": "2538",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/preload",
+    "method": "GET",
+    "moduleid": "2506",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/GetModuleInitializationData",
+    "method": "GET",
+    "moduleid": "2506",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/GetModuleInitializationData",
+    "method": "GET",
+    "moduleid": "2499",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/GetModuleInitializationData",
+    "method": "GET",
+    "moduleid": "2500",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/PayNowLink/data/paynowlink",
+    "method": "GET",
+    "moduleid": "2507",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/Cocustomers/data/GetModuleInitializationData",
+    "method": "GET",
+    "moduleid": "2538",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/data",
+    "method": "GET",
+    "moduleid": "2500",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/data",
+    "method": "GET",
+    "moduleid": "2500",
+    "tabid": "605"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/data",
+    "method": "GET",
+    "moduleid": "2499",
+    "tabid": "605"
+  }
+]

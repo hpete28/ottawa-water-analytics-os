@@ -64,7 +64,30 @@ GET https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/UsageHistory/summa
 - Primary session identifiers: `mysoauth`, `.DOTNETNUKE`, `ASP.NET_SessionId`.
 - `__RequestVerificationToken` cookie value is also sent as the `RequestVerificationToken` header (DNN double-submit CSRF pattern).
 - `moduleid` (480) and `tabid` (88) are DNN page-routing identifiers — may change if portal is restructured.
-- A **daily usage** endpoint is also visible in DevTools (`GetDailyUsage`) — to be documented in Phase 3.
+- A **daily usage** endpoint is also visible in DevTools (`GetDailyUsage`).
+
+### Billing Summary Endpoint
+```
+GET https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/data
+```
+
+**Required Headers:**
+- `moduleid`: `2499` (Billing Module)
+- `tabid`: `605` (Dashboard Tab for new account)
+
+**Response Shape:**
+```json
+{
+  "Success": true,
+  "Data": {
+    "billNumber": 38831569,
+    "account": "10041554",
+    "currentBalance": 221.28,
+    "billDate": { "formattedDate": "2026-01-09" },
+    "dueDate": { "formattedDate": "2026-01-29" }
+  }
+}
+```
 
 ---
 

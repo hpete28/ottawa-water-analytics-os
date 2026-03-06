@@ -387,6 +387,52 @@ app.post('/api/insights', async (req, res) => {
 });
 
 // ---------------------------------------------------------------------------
+// GET /api/billing
+// Fetches the latest invoice/billing information from the database
+// ---------------------------------------------------------------------------
+
+app.get('/api/billing', async (req, res) => {
+    try {
+        const db = await getDb();
+        const rows = await db.all(
+            `SELECT bill_number, account_number, bill_date, due_date, current_balance, past_balance, total_balance 
+             FROM billing_history 
+             ORDER BY bill_date DESC`
+        );
+
+        res.json({
+            success: true,
+            data: rows
+        });
+    } catch (err) {
+        console.error('[GET /api/billing]', err.message);
+        sendError(res, 500, err.message);
+    }
+});
+
+// ---------------------------------------------------------------------------
+// GET /api/scrape/billing
+// Manually triggers the BillingService scraper
+// ---------------------------------------------------------------------------
+
+const { fetchAndStoreBillingSummary } = require('./services/BillingService');
+
+app.get('/api/scrape/billing', async (req, res) => {
+    console.log('[API] Triggering manual billing scrape...');
+    try {
+        const invoice = await fetchAndStoreBillingSummary();
+        res.json({
+            success: true,
+            message: 'Billing data successfully fetched.',
+            invoice: invoice,
+        });
+    } catch (err) {
+        console.error('[API] Scrape error:', err.message);
+        sendError(res, 500, err.message);
+    }
+});
+
+// ---------------------------------------------------------------------------
 // Health check
 // ---------------------------------------------------------------------------
 

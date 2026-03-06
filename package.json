@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
     "dev:backend": "node server.js",
     "dev:frontend": "npm run dev --prefix frontend",
     "build": "npm run build --prefix frontend",
@@ -22,5 +23,8 @@
     "puppeteer": "^24.38.0",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
   }
 }

@@ -1,0 +1,53 @@
+{
+  "Success": true,
+  "Data": {
+    "billNumber": 37740634,
+    "account": "10082793",
+    "customer": "0127764",
+    "dueDate": {
+      "date": "2025-06-16T00:00:00",
+      "formattedDate": "2025-06-16",
+      "longDate": "Jun 16, 2025",
+      "ticks": 638856288000000000
+    },
+    "billDate": {
+      "date": "2025-05-30T00:00:00",
+      "formattedDate": "2025-05-30",
+      "longDate": "May 30, 2025",
+      "ticks": 638841600000000000
+    },
+    "currentBalance": 91.71,
+    "currentBalanceString": "$91.71",
+    "pastBalance": 0,
+    "pastBalanceString": "$0.00",
+    "totalBalance": 0,
+    "totalBalanceString": "$0.00",
+    "viewMoreUrl": "/",
+    "showLastBillAmount": false,
+    "enableExtendDueDate": false,
+    "pastDueDate": {
+      "date": "2025-06-16T00:00:00",
+      "formattedDate": "2025-06-16",
+      "longDate": "Jun 16, 2025",
+      "ticks": 638856288000000000
+    },
+    "paymentPlanType": "",
+    "paymentPlanAmount": 0,
+    "paymentPlanAmountString": "$0.00",
+    "displayPastDueDate": false,
+    "pendingPayment": 0,
+    "pendingPaymentString": "$0.00",
+    "showPendingPayment": false,
+    "showPayBills": false,
+    "paymentPage": null,
+    "showPaymentPlan": false,
+    "replaceTotalBalanceWithBudgetAmount": false,
+    "renameTotalBalanceForBudgetBilling": false,
+    "includePreviousBalanceOnTotalBill": false,
+    "dueDateChangedBy": null,
+    "dueDateChangedReason": null
+  },
+  "Exception": null,
+  "Feedback": null,
+  "StatusDescription": null
+}

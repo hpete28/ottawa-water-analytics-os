@@ -52,8 +52,22 @@
 - [x] Create the `AiInsights.jsx` React component to render the markdown analysis on the dashboard.
 
 ## Phase 10: Automated Authentication (Headless Browser)
-- [ ] Install `puppeteer`.
-- [ ] Build `services/AuthScraper.js` to visibly/headlessly navigate the Ottawa Water Portal login flow.
-- [ ] Extract the fresh session cookie and automatically write it back to the local `.env` file.
-- [ ] Update `server.js` to trigger the Auth script silently if the API returns a 401 Unauthorized error.
-- [ ] Finalize `README.md` startup and run commands for the repository.
+- [x] Install `puppeteer`.
+- [x] Build `services/AuthScraper.js` to visibly/headlessly navigate the Ottawa Water Portal login flow.
+- [x] Extract the fresh session cookie and automatically write it back to the local `.env` file.
+- [x] Update `server.js` to trigger the Auth script silently if the API returns a 401 Unauthorized error.
+- [x] Finalize `README.md` startup and run commands for the repository.
+
+## Phase 11: Date Range Stability & Year-End Fixes
+- [x] Identify and fix timezone bug (UTC vs EST) skipping Dec 31st data.
+- [x] Implement robust date iteration in `WaterService.js` using `Date.UTC`.
+- [x] Add dynamic range selector hooks in `App.jsx` to fetch precise history across year boundaries.
+
+## Phase 12: Billing History & Analytics
+- [x] Create `billing_history` table in SQLite for invoice tracking.
+- [x] Build `services/BillingService.js` to parse invoice numbers, total due, and bill dates.
+- [x] Create `BillingPanel.jsx` and `DailyTable.jsx` React components.
+- [x] Integrate billing KPIs (Invoice #, Total Due, Due Date) into the main dashboard.
+- [x] Patch `AuthScraper.js` to handle **Account Switching** (targeting active account #10041554).
+- [ ] Discover and update correct `METER_NUMBER` for Brookwood Cir (Active Account).
+- [ ] Connect the "Daily Table" frontend to live daily consumption totals.

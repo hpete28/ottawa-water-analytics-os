@@ -1,0 +1,134 @@
+[
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/DateRange/datepicker.css?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/logger.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/aus-service.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goPage.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goLogin.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goChangePassword.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advancedTags.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/AccountSelector/js/AccountSelector.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/ServiceSelector/js/bootstrap-multiselect.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/DateRange/datepicker.min.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/DateRange/moment-with-locales.min.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/ServiceSelector/js/ServiceSelector.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/UsageHistory/js/UsageHistory.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/GraphicChart/dx.viz-web.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/GraphicChart/js/GraphicChart.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.en.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/logger.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/aus-service.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goPage.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goLogin.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/goChangePassword.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advancedTags.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/AccountSelector/js/AccountSelector.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/ServiceSelector/js/bootstrap-multiselect.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/DateRange/datepicker.min.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/DateRange/moment-with-locales.min.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/ServiceSelector/js/ServiceSelector.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/UsageHistory/js/UsageHistory.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Components/GraphicChart/dx.viz-web.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/GraphicChart/js/GraphicChart.js?cdv=2511",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.en.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/DesktopModules/AdvancedUtility/Common/js/advanced.timeout.js",
+    "method": "GET"
+  }
+]

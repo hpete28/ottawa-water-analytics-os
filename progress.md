@@ -59,5 +59,13 @@
   - Built a sleek `AiInsights.jsx` panel in the UI to stream markdown analysis directly to the user.
   - **Phases 6-9: COMPLETE.**
 
-- **[2026-03-06] Phase 10 - Automation Planning:**
-  - Exploring Puppeteer to handle the volatile Ottawa Water Portal `USER_COOKIE`.
+- **[2026-03-06] Phase 10 - Automation Complete:** Successfully implemented `AuthScraper.js` using Puppeteer. Scraper now bypasses Azure AD B2C login screens and updates `.env` with fresh cookies. Integration with `server.js` triggers "Self-Healing" auth on 401 errors.
+  
+- **[2026-03-06] Phase 11 - Timezone Stability:** Fixed critical bug where Dec 31st was being skipped due to timezone differences between Node.js local time and Ottawa API's midnight boundary. Switched to `Date.UTC()` for all date iteration loops.
+
+- **[2026-03-06] Phase 12 - Billing & Multi-Account Support:** 
+  - Discovered and bypassed account selection blockers in the portal.
+  - Patched `AuthScraper.js` to programmatically click "10041554650 BROOKWOOD CIR" links after JS hydration.
+  - Built `BillingService.js` and confirmed successful capture of Invoice #38831569.
+  - Added new `billing_history` table and deployed 2 new frontend panels: `BillingPanel` and `DailyTable`.
+  - Dashboard now displays real invoice numbers and account-specific billing status.

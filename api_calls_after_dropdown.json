@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/preload",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/AccountSelector/selector/GetModuleInitializationData",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/BillingSummary/summary/GetModuleInitializationData",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/eBillSignup/enrollment/GetModuleInitializationData",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/PayNowLink/data/paynowlink",
+    "method": "GET"
+  },
+  {
+    "url": "https://water-billing.ottawa.ca/en-ca/API/AdvancedUtility/Cocustomers/data/GetModuleInitializationData",
+    "method": "GET"
+  }
+]
